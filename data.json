@@ -1,0 +1,311 @@
+{
+  "title": "贾聪伟公开网络资料包",
+  "checked_at": "2026-11-25",
+  "timezone": "Asia/Taipei（UTC+8）",
+  "subject": {
+    "name_zh": "贾聪伟",
+    "name_en": [
+      "Jia Congwei",
+      "Congwei Jia",
+      "Thomas Christ"
+    ],
+    "former_en": "Zeke",
+    "brand_zh": "盛京箴艺",
+    "brand_en": "Shengjing Zhenyi",
+    "location": "沈阳",
+    "roles": [
+      "书法",
+      "绘画",
+      "篆刻",
+      "儿童美育"
+    ]
+  },
+  "method": "仅收录本次在公开网页、搜索摘要或 X 公开接口中实际看到的内容；每条附来源链接与核验日期。打不开的页面标明原因，不编造。不含密码、电话与健康信息。家庭住址、出租联系方式等敏感细节即使曾出现在公开帖中，本资料包也不再抄录。",
+  "notes": [
+    "专属用户站仓库 Wisdom1st/wisdom1st.github.io 本次公开检索不存在，wisdom1st.github.io 根路径返回 404。已有页面均以各项目仓库的 GitHub Pages 子路径发布。",
+    "领英个人页本次直接打开被拦截（HTTP 999），wisdomfirst 的内容来自 2026-11-25 的公开搜索摘要，并与 2026-10-17 的核验记录一致。",
+    "微博、知乎、Facebook、Instagram 主页本次抓取遇到登录墙或反爬；列出的发文链接来自 2026-11-25 已完成的公开发布，链接本身可访问性以各平台为准。"
+  ],
+  "items": [
+    {
+      "platform": "领英",
+      "account": "贾聪伟（wisdomfirst）",
+      "url": "https://www.linkedin.com/in/wisdomfirst",
+      "what": "头衔 Christian Artist，所在地 Shenyang, Liaoning, China；约 221 个联系人、222 位关注者。现职 Researcher – Proverbs and Chinese ink（2016年10月至今，沈阳）。曾任 Supervisor – Holy Duke（2017年3月至2018年8月，沈阳；附言 Stay in hunger for wisdom）。教育：东北林业大学园林 / Landscape Architecture，2005–2009，附言 Study hard and Change。技能列表含中国书法、篆刻、水墨、绘画、艺术教育、博物馆教育、公开演讲等。页面未写英文名 Thomas Christ，也未写品牌盛京箴艺。",
+      "last_activity": "搜索摘要未给出最近动态时间；资料为本人填写",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "公开搜索摘要；直接打开页面被拦截"
+    },
+    {
+      "platform": "领英",
+      "account": "Zeke Jia（zeke-jia-15a89834）",
+      "url": "https://www.linkedin.com/in/zeke-jia-15a89834",
+      "what": "本次未能打开页面。公开搜索摘要写：Zeke Jia，宁波 TÜV Rheinland Group 部门经理，电气工程背景，青岛大学，约 22 年经验。2026-10-17 核验时该页曾返回 500，当时因英文名 Zeke 相符而列为存疑。现有摘要中的地点、行业与学历均与沈阳书法美育身份不符。",
+      "last_activity": "页面未打开，不详",
+      "status": "存疑",
+      "checked": "2026-11-25",
+      "source_note": "搜索摘要；页面未能打开。更像同名他人，需本人确认是否曾用此号"
+    },
+    {
+      "platform": "Payhip",
+      "account": "Shengjing Zhenyi Art",
+      "url": "https://payhip.com/ShengjingZhenyiArt",
+      "what": "店铺 About Me 写明：Hi, I'm Thomas Christ（贾聪伟），a Chinese calligrapher, painter and art teacher from Shenyang, China, and a follower of Christ。在售英文儿童课 Chinese Characters Are Drawn：免费样课、单课 5 美元、四课合集 15 美元。样课页 https://payhip.com/b/dkMZX ；合集 https://payhip.com/b/f05EW ；第一课 https://payhip.com/b/osZDE。",
+      "last_activity": "店铺与商品页 2026-11-25 仍可打开；X 上最近一次推广为 2026-11-02",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "Payhip 店铺与商品页原文"
+    },
+    {
+      "platform": "X",
+      "account": "Wisdom（@Wisdom1st2nd）",
+      "url": "https://x.com/Wisdom1st2nd",
+      "what": "显示名 Wisdom，简介为空，未认证。2026-10-09 注册（UTC）。0 位关注者，正在关注 1 人，17 条帖子，15 则媒体。帖文含盛京箴艺课程、汉字启蒙、Payhip 英文课、贾宪一画作介绍，以及 2026-11-25 发布的《伊施波设的首级》中英对照。另有家庭与生活类帖文。",
+      "last_activity": "2026-11-25 05:59（台北时间）：https://x.com/Wisdom1st2nd/status/2125348695256465916",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "X 公开用户与帖子接口"
+    },
+    {
+      "platform": "X",
+      "account": "Wisdom1st（@Wisdom1st2）",
+      "url": "https://x.com/Wisdom1st2",
+      "what": "显示名 Wisdom1st，简介「智慧为首」。2018-12-14 注册（UTC）。0 位关注者，正在关注 19 人，资料显示 3 条帖子、2 则媒体。本次用 from:Wisdom1st2 搜索，未能读到任何帖文，无法从内容确认是否本人。",
+      "last_activity": "帖文未能读到，不详",
+      "status": "存疑",
+      "checked": "2026-11-25",
+      "source_note": "X 用户资料可查，帖文检索为空"
+    },
+    {
+      "platform": "X",
+      "account": "Christine Bradley（@wisdom1st）",
+      "url": "https://x.com/wisdom1st",
+      "what": "显示名 Christine Bradley，简介 Flaws but with God’s help loves，所在地 Florida, USA。2013-05-10 注册，148 位关注者，2789 条帖子。与沈阳书法美育身份不符。",
+      "last_activity": "未再逐条核验帖文",
+      "status": "非本人",
+      "checked": "2026-11-25",
+      "source_note": "X 用户资料"
+    },
+    {
+      "platform": "YouTube",
+      "account": "PROVERBS and CHINESE INK（@wisdom1stinCHRIST）",
+      "url": "https://www.youtube.com/@wisdom1stinCHRIST",
+      "what": "频道 ID UC8i_6RlbTg3ZcDyKXNSQmxQ，简介 Treat people as you yourself wish to be treated。频道创建于 2022-01-22（UTC）。公开视频含《盛京箴艺 篆书识字》（2025-01-12，2 次观看）、#盛京箴艺#篆书认字（2025-02-14，3 次观看），以及 2026 年若干短视频；其中《2026年3月25日》短视频约 1381 次观看。",
+      "last_activity": "RSS 最新条目《2026年3月25日》，发布于 2026-05-31（UTC），0 次观看；https://www.youtube.com/watch?v=_zXpMf0DcmA",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "YouTube 频道页与频道 RSS"
+    },
+    {
+      "platform": "YouTube",
+      "account": "wisdom1st（@wisdom1st）",
+      "url": "https://www.youtube.com/@wisdom1st",
+      "what": "频道 ID UCvtC0fCum-kcfo47WxyEwRA。RSS 显示创建于 2007-09-28（UTC），默认简介 Share your videos with friends, family, and the world，本次未见任何视频。仅名称相近，无内容可对上盛京箴艺。",
+      "last_activity": "RSS 无视频条目",
+      "status": "存疑",
+      "checked": "2026-11-25",
+      "source_note": "YouTube 频道页与频道 RSS"
+    },
+    {
+      "platform": "微信公众号",
+      "account": "聪伟 书画研究 研学游学（账号 LiftWisdom）",
+      "url": "https://mp.weixin.qq.com/s/wUI5cPUQgu0WbmcevL-ctg",
+      "what": "原始 ID gh_c98dcf06ae1b。已发表文章《伊施波设的首级｜寻智如淘金》，作者栏写「聪伟」，正文赏析蒂索《利甲和巴拿把伊施波设的头带来》。",
+      "last_activity": "2026-11-23 16:06（页面所载时间，按中国网络常见时区理解）",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "公众号文章页原文"
+    },
+    {
+      "platform": "GitHub",
+      "account": "Wisdom1st",
+      "url": "https://github.com/Wisdom1st",
+      "what": "公开用户页。2026-04-14 加入（UTC），29 个公开仓库，0 个关注者。资料中的姓名、简介、地点、博客栏均为空。仓库多为书画美育、课程与资料页，且几乎都开启了 GitHub Pages。",
+      "last_activity": "用户资料更新 2026-10-29（UTC）；仓库推送可见至 2026-11-25（台北时间）前后",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "GitHub 公开用户与仓库 API"
+    },
+    {
+      "platform": "GitHub Pages",
+      "account": "wisdom1st.github.io 子路径（无用户站仓库）",
+      "url": "https://wisdom1st.github.io/xuwei-zahua/",
+      "what": "根路径 https://wisdom1st.github.io/ 本次返回 404，公开检索不到 Wisdom1st/wisdom1st.github.io 仓库。已确认可打开的子站包括：徐渭《杂花图》资料页、古典博雅招生页、项目进度总览等。每个子站对应一个同名公开仓库。",
+      "last_activity": "部分仓库 2026-11-25 仍有推送",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "GitHub API 与页面 HTTP 状态"
+    },
+    {
+      "platform": "域名",
+      "account": "wisdom1st.ccwu.cc / wisdom1st.pages.dev",
+      "url": "https://wisdom1st.ccwu.cc/",
+      "what": "两个地址本次均返回默认的 nginx 欢迎页（Welcome to nginx!），没有站点内容或个人介绍。域名与 Wisdom1st 品牌一致，但对外不能当作已上线的个人网站。",
+      "last_activity": "2026-11-25 仍为默认页",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "页面原文；内容未配置"
+    },
+    {
+      "platform": "知乎",
+      "account": "专栏文章《伊施波设的首级｜寻智如淘金》",
+      "url": "https://zhuanlan.zhihu.com/p/2108803737632379007",
+      "what": "2026-11-25 已公开发布的中英对照文章。本次抓取被知乎返回 403，未能重新读取正文或作者主页。",
+      "last_activity": "2026-11-25 发布",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "已发布链接；本次正文被拦截"
+    },
+    {
+      "platform": "微博",
+      "account": "聪伟艺术课程（UID 6033660524）",
+      "url": "https://weibo.com/6033660524",
+      "what": "账号用于发布艺术课程内容。2026-11-25 已发《伊施波设的首级》图文：https://weibo.com/6033660524/RsXAz9tTY 。本次打开跳转访客系统，未能重新读取主页简介或最新微博列表。",
+      "last_activity": "2026-11-25 已发上述微博",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "已发布链接；本次主页被访客墙拦截"
+    },
+    {
+      "platform": "Instagram",
+      "account": "proverbs_and_chinese_ink",
+      "url": "https://www.instagram.com/proverbs_and_chinese_ink/",
+      "what": "账号名与领英现职、YouTube 频道名一致。2026-11-25 已发帖 https://www.instagram.com/proverbs_and_chinese_ink/p/DgI-70DEkB6/ 。本次个人页与 oEmbed 未能稳定读出简介、粉丝数或正文。",
+      "last_activity": "2026-11-25 已发上述帖子",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "账号与发帖链接存在；本次内容抓取不完整"
+    },
+    {
+      "platform": "Facebook",
+      "account": "个人主页（id 100075883755713）",
+      "url": "https://www.facebook.com/100075883755713",
+      "what": "2026-11-25 已从该账号公开发布《伊施波设的首级》图文。本次打开跳转登录页，未能读到公开显示名或简介。发帖链接：https://www.facebook.com/permalink.php?story_fbid=pfbid0P6UUc58pKCCyu82G6N4Ff83wYTka6v9igqFm9xdCcQ4cJKKTC25MWp9mb6vhiddXl&id=100075883755713",
+      "last_activity": "2026-11-25 已发上述帖子",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "已发布链接；本次主页需登录"
+    },
+    {
+      "platform": "抖音",
+      "account": "Wisdom1st（创作者后台可见）",
+      "url": "",
+      "what": "2026-11-25 已在抖音发布《伊施波设的首级》图文，条目在创作者后台「内容管理」中。本次公开网页搜索未找到可分享的作品或主页链接。",
+      "last_activity": "2026-11-25 已发布（无公开链接）",
+      "status": "本人",
+      "checked": "2026-11-25",
+      "source_note": "公开检索无主页 URL"
+    },
+    {
+      "platform": "视频号",
+      "account": "盛京箴艺（待本人发布）",
+      "url": "",
+      "what": "已知品牌账号名为盛京箴艺。2026-11-25 由本人自行发布，本次公开检索未找到可引用的主页或作品链接。",
+      "last_activity": "公开检索未见",
+      "status": "存疑",
+      "checked": "2026-11-25",
+      "source_note": "无公开 URL，无法在网上复核"
+    },
+    {
+      "platform": "B站",
+      "account": "盛京箴艺（公开空间未找到）",
+      "url": "",
+      "what": "检索 site:bilibili.com 盛京箴艺 未找到对应空间。网上能搜到的是其他「盛京」用户，与本品牌无关。因此本包不写具体空间号。",
+      "last_activity": "公开检索未见",
+      "status": "存疑",
+      "checked": "2026-11-25",
+      "source_note": "公开搜索无匹配空间"
+    },
+    {
+      "platform": "百科／画家页（父亲）",
+      "account": "贾宪一（百度百科）",
+      "url": "https://baike.baidu.com/item/贾宪一/8130202",
+      "what": "沈阳画家，1960 年生，鲁迅美术学院成人教育学院毕业，辽宁省美术家协会会员，师从宋雨桂、王义胜，擅花鸟山水，尤以画虎著称。本次阅读的百科正文未提到贾聪伟或盛京箴艺。X 账号 @Wisdom1st2nd 曾发布其《鸿运来》《无尘图》《晴雨图》等作品介绍。",
+      "last_activity": "百科页 2026-11-25 可打开；相关 X 帖最近一条为 2026-10-26",
+      "status": "相关",
+      "checked": "2026-11-25",
+      "source_note": "列为相关公开资料（父亲的公开介绍），并非贾聪伟本人的账号"
+    },
+    {
+      "platform": "ArtMajeur",
+      "account": "Xianyi Jia",
+      "url": "https://www.artmajeur.com/xianyi-jia",
+      "what": "公开搜索摘要：中国画家，沈阳，宣纸设色，荷塘与虎等题材。本次直接打开返回 403。百科与此页均未在本次可见文字中写到贾聪伟。",
+      "last_activity": "页面本次未打开",
+      "status": "相关",
+      "checked": "2026-11-25",
+      "source_note": "父亲相关英文页，内容未当场读到；非贾聪伟本人账号"
+    },
+    {
+      "platform": "论文／医院",
+      "account": "Congwei Jia / Jia Congwei（北京协和，中文论文或署贾丛伟）",
+      "url": "https://www.longdom.org/author/congwei-jia-56802",
+      "what": "协和医院／中国医学科学院病理方向研究者，有大量肿瘤与病理论文。领域、单位均与沈阳书法美育无关。另见汇总页 https://exa.ai/library/person/3jxnhw24cn4",
+      "last_activity": "仍有 2025–2026 年论文",
+      "status": "非本人",
+      "checked": "2026-11-25",
+      "source_note": "作者页与公开论文记录"
+    },
+    {
+      "platform": "ArtStation",
+      "account": "congwei Jia（stepink）",
+      "url": "https://stepink.artstation.com/",
+      "what": "简介写 Jinan, China，插画／立绘／场景，作品《以心为剑》。与沈阳盛京箴艺不符。",
+      "last_activity": "作品页仍可打开",
+      "status": "非本人",
+      "checked": "2026-11-25",
+      "source_note": "ArtStation 主页与简历页"
+    },
+    {
+      "platform": "新闻",
+      "account": "河北易县大学生农业职业经理人贾聪伟",
+      "url": "http://www.he-bei.cn/diqu/baoding/202312/29503317.html",
+      "what": "2023-12 报道：易县农产品展销中，大学生职业经理人李玉莹、贾聪伟直播介绍果脯。地点在河北，职业为农产品营销，不是本人。",
+      "last_activity": "报道日期 2023-12-29",
+      "status": "非本人",
+      "checked": "2026-11-25",
+      "source_note": "河北网报道"
+    },
+    {
+      "platform": "新闻",
+      "account": "保定市徐水区游客贾聪伟",
+      "url": "https://www.cnr.cn/hebei/qxlb/20240202/t20240202_526581259.shtml",
+      "what": "2024-02-02 央广网：易县非遗活动中，来自保定市徐水区的游客贾聪伟体验易水砚雕刻。不是本人。新华丝路转载：https://www.imsilkroad.com/news/p/518462.html",
+      "last_activity": "报道日期 2024-02-02",
+      "status": "非本人",
+      "checked": "2026-11-25",
+      "source_note": "央广网报道"
+    },
+    {
+      "platform": "工商／招聘",
+      "account": "三河市卷隆商行法定代表人贾聪伟",
+      "url": "https://www.zhaopin.com/companydetail/9213XIDH6DFKUTBNIE.htm",
+      "what": "智联招聘公司页：个体工商户，2023-03-02 成立于河北三河，法定代表人贾聪伟，经营日用百货等零售。与沈阳艺术教育身份不符。",
+      "last_activity": "成立于 2023-03-02",
+      "status": "非本人",
+      "checked": "2026-11-25",
+      "source_note": "智联招聘公司介绍"
+    },
+    {
+      "platform": "招标公示",
+      "account": "中冶建设项目经理贾聪伟",
+      "url": "https://www.bidcenter.com.cn/newscontent-405575082-4.html",
+      "what": "公开搜索与既有核验记录：焦作福家园项目中标候选人公示中出现中冶建设高新工程技术有限责任公司项目经理贾聪伟。本次直接打开页面未读到正文。按地点与行业判断不是本人。",
+      "last_activity": "公示约 2022 年前后（以原页为准）",
+      "status": "非本人",
+      "checked": "2026-11-25",
+      "source_note": "搜索摘要；页面本次未读到正文"
+    },
+    {
+      "platform": "其他 Thomas Christ",
+      "account": "瑞士摄影师／艺术史学者 Thomas Christ",
+      "url": "http://www.tchrist.de/",
+      "what": "用英文名 Thomas Christ 搜索时，靠前的是欧洲同名艺术家。瑞士的 Thomas Christ 拍摄 1980 年代纽约涂鸦并出版 Instant Recognition 等书；另有德国画家 Thomas Christ（Taunusstein，生于 1968）。均与沈阳书法美育无关。相关：https://www.thierryfurger.ch/bookshop/buchnyc",
+      "last_activity": "不作为本人动态",
+      "status": "非本人",
+      "checked": "2026-11-25",
+      "source_note": "公开书籍与个人网站；同名不同人"
+    }
+  ]
+}
